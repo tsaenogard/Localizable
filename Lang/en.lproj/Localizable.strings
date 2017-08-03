@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Lang
+
+  Created by Xcode on 2017/4/28.
+  Copyright © 2017年 wtfcompany. All rights reserved.
+*/
+name="name";
+age="age";
+gender="gender";

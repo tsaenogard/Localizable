@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Lang
+
+  Created by Xcode on 2017/4/28.
+  Copyright © 2017年 wtfcompany. All rights reserved.
+*/
+CFBundleDisplayName="English Name";
